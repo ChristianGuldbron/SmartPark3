@@ -26,5 +26,7 @@
     <string name="indtast_en_slutadresse_og_find_parkering">Indtast en slut adresse og find parkering tæt på</string>
     <string name="Singed_Out">Logget Ud</string>
     <string name="floating_action_button">Floating Action Button</string>
+    <string name="anbefal_smartpark_til_en_ven">Anbefal SmartPark til en ven!</string>
+    <string name="kopierlink">Kopier Linket!</string>
 
 </resources>

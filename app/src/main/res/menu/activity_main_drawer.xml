@@ -20,5 +20,10 @@
             android:id="@+id/nav_indstillinger"
             android:icon="@drawable/ic_baseline_settings_24"
             android:title="@string/menu_indstillinger" />
+
+        <item android:id="@+id/nav_anbefal"
+            android:icon="@drawable/ic_baseline_add_reaction_24"
+            android:title="@string/anbefal_smartpark_til_en_ven"/>
+
     </group>
 </menu>

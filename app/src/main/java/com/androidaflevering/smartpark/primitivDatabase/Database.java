@@ -20,6 +20,7 @@ public class Database {
         SamarbejdspartnereAListe.add(new SamarbejdspartnereInfo("Nicolinehus", "Nicolinehus", "00:00-23:59", 22));
         SamarbejdspartnereAListe.add(new SamarbejdspartnereInfo("Brynet", "Risskov brynet", "00:00-23:59", 22));
         SamarbejdspartnereAListe.add(new SamarbejdspartnereInfo("Møllehatten", "Møllehatten", "00:00-23:59", 22));
+        SamarbejdspartnereAListe.add(new SamarbejdspartnereInfo("risskovbrynet", "kongevellen 2, 8240 Risskov", "06.00-23.00", 55));
 
     }
 
