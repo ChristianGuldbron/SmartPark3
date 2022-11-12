@@ -16,4 +16,4 @@ at kunne gøre brug af en app til regristering af parkeringen.
 - [] 3. Jeg vil gerne kunne se en timepris over parkeringsmulighederne
 - [] 4. Jeg vil gerne kunne registrere en parkering
 - [] 5. Jeg vil gerne kunne vil gerne kunne se en liste med min historik over parkeringer. 
-- [] 2. Jeg vil gerne kunne finde information om udbyderen af appen. 
+- [] 6. Jeg vil gerne kunne finde information om udbyderen af appen. 
