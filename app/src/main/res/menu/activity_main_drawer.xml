@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+
     tools:showIn="navigation_view">
 
     <group android:checkableBehavior="single">
@@ -12,6 +13,11 @@
             android:id="@+id/nav_mine_parkeringer"
             android:icon="@drawable/ic_baseline_list_24"
             android:title="@string/menu_samarbejdspartnere" />
+
+        <item android:id="@+id/nav_anbefal"
+            android:icon="@drawable/ic_baseline_add_reaction_24"
+            android:title="@string/anbefal_smartpark_til_en_ven"/>
+
         <item
             android:id="@+id/nav_om_smartpark"
             android:icon="@drawable/company_logo_white"
@@ -21,9 +27,7 @@
             android:icon="@drawable/ic_baseline_settings_24"
             android:title="@string/menu_indstillinger" />
 
-        <item android:id="@+id/nav_anbefal"
-            android:icon="@drawable/ic_baseline_add_reaction_24"
-            android:title="@string/anbefal_smartpark_til_en_ven"/>
-
     </group>
+
+
 </menu>
