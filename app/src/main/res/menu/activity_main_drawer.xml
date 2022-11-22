@@ -22,6 +22,7 @@
             android:id="@+id/nav_om_smartpark"
             android:icon="@drawable/company_logo_white"
             android:title="@string/menu_om_smartpark" />
+
         <item
             android:id="@+id/nav_indstillinger"
             android:icon="@drawable/ic_baseline_settings_24"
