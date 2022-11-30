@@ -11,9 +11,9 @@ Derudover er en parkerings app som denne noget som jeg gør brug af ugentligt, n
 at kunne gøre brug af en app til regristering af parkeringen. 
 
 ## prioriterings liste af user stories ## 
-- 1. Jeg vil gerne kunne oprette en bruger og logge ind. 
-- 2. Jeg vil gerne kunne se en liste over SmartParks forskellige samarbejdspartnere.
-- 3. Jeg vil gerne kunne se en timepris over parkeringsmulighederne hos samarbejdspartnerene.
-- 4. Jeg vil gerne kunne registrere en parkering
-- 5. Jeg vil gerne kunne vil gerne kunne se en liste med min historik over parkeringer. 
-- 6. Jeg vil gerne kunne finde information om udbyderen af appen. 
+- [] 1. Jeg vil gerne kunne oprette en bruger og logge ind. 
+- [] 2. Jeg vil gerne kunne se en liste over SmartParks forskellige samarbejdspartnere.
+- [] 3. Jeg vil gerne kunne se en timepris over parkeringsmulighederne hos samarbejdspartnerene.
+- [] 4. Jeg vil gerne kunne registrere en parkering
+- [] 5. Jeg vil gerne kunne vil gerne kunne se en liste med min historik over parkeringer. 
+- [] 6. Jeg vil gerne kunne finde information om udbyderen af appen. 
