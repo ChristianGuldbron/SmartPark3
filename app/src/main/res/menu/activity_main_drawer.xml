@@ -9,25 +9,27 @@
         <item
             android:id="@+id/nav_start_parkering"
             android:icon="@drawable/parking_icon"
-            android:title="@string/menu_find_parkering" />
+            android:title="@string/menu_find_parkering"
+            android:typeface="monospace"/>
         <item
             android:id="@+id/nav_mine_parkeringer"
             android:icon="@drawable/ic_baseline_list_24"
-            android:title="@string/menu_samarbejdspartnere" />
+            android:title="@string/menu_samarbejdspartnere"
+            android:typeface="monospace"/>
 
-        <item android:id="@+id/nav_anbefal"
-            android:icon="@drawable/ic_baseline_add_reaction_24"
-            android:title="@string/anbefal_smartpark_til_en_ven"/>
+
 
         <item
             android:id="@+id/nav_om_smartpark"
             android:icon="@drawable/company_logo_white"
-            android:title="@string/menu_om_smartpark" />
+            android:title="@string/menu_om_smartpark"
+            android:typeface="monospace"/>
 
         <item
             android:id="@+id/nav_indstillinger"
             android:icon="@drawable/ic_baseline_settings_24"
-            android:title="@string/menu_indstillinger" />
+            android:title="@string/menu_indstillinger"
+            android:typeface="monospace"/>
 
 
     </group>
