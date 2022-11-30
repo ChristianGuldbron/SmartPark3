@@ -9,7 +9,7 @@
     <string name="menu_samarbejdspartnere">Samarbejdspartnere</string>
     <string name="menu_om_smartpark">Om SmartPark</string>
     <string name="menu_indstillinger">Indstillinger</string>
-    <string name="Log_ind_knap">Log ind/registrere dig med Google</string>
+    <string name="Log_ind_knap">Log ind/registrér dig med Google!</string>
     <string name="fab_find_parkering">Find Parkering Tæt På Dig</string>
     <string name="find_parkering_knap">Find Parkering</string>
     <string name="Om_Os_del1">SmartPark er en applikation, som skal gøre det lettere at registere sine parkeringer</string>
@@ -28,4 +28,5 @@
     <string name="intro">SmartPark, park smarter!</string>
     <string name="log_ud">Klik her for at logge ud!</string>
     <string name="introsmartpark">park smarter!</string>
+    <string name="intro2" translatable="false">Park smarter!</string>
 </resources>
