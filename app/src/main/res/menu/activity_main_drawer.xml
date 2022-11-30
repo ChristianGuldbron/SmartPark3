@@ -12,26 +12,21 @@
             android:title="@string/menu_find_parkering"
             android:typeface="monospace"/>
         <item
-            android:id="@+id/nav_mine_parkeringer"
-            android:icon="@drawable/ic_baseline_list_24"
-            android:title="@string/menu_samarbejdspartnere"
-            android:typeface="monospace"/>
-
-
-
+            android:id="@+id/nav_indstillinger"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="@string/menu_indstillinger"
+            android:typeface="monospace"
+            />
         <item
             android:id="@+id/nav_om_smartpark"
             android:icon="@drawable/company_logo_white"
             android:title="@string/menu_om_smartpark"
             android:typeface="monospace"/>
-
         <item
-            android:id="@+id/nav_indstillinger"
-            android:icon="@drawable/ic_baseline_settings_24"
-            android:title="@string/menu_indstillinger"
+            android:id="@+id/nav_mine_parkeringer"
+            android:icon="@drawable/ic_baseline_list_24"
+            android:title="@string/menu_samarbejdspartnere"
             android:typeface="monospace"/>
-
-
     </group>
 
 

@@ -75,13 +75,13 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    private void startLoginActivity() {
-        startActivity(new Intent(this, SignInActivity.class));
-        finish();
-    }
-
     public void signOut(View v) {
         viewModel.signOut();
         Toast.makeText(this,getString(R.string.Singed_Out), Toast.LENGTH_SHORT).show();
+    }
+
+    private void startLoginActivity() {
+        startActivity(new Intent(this, SignInActivity.class));
+        finish();
     }
 }

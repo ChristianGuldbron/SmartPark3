@@ -11,6 +11,7 @@
         android:textAlignment="center"
         android:textSize="20sp"
         android:layout_margin="20dp"
+        android:typeface="monospace"
         />
 
 </LinearLayout>

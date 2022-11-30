@@ -42,11 +42,6 @@ public class SignInActivity extends AppCompatActivity {
         });
     }
 
-    private void goToMainActivity() {
-        startActivity(new Intent(this, MainActivity.class));
-        finish();
-    }
-
     public void signIn(View v) {
         List<AuthUI.IdpConfig> providers = Collections.singletonList(
                 new AuthUI.IdpConfig.GoogleBuilder().build());
@@ -55,7 +50,10 @@ public class SignInActivity extends AppCompatActivity {
                 .createSignInIntentBuilder()
                 .setAvailableProviders(providers)
                 .build();
-
         activityResultLauncher.launch(signInIntent);
+            }
+    private void goToMainActivity() {
+        startActivity(new Intent(this, MainActivity.class));
+        finish();
     }
 }

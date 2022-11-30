@@ -24,7 +24,7 @@
         app:layout_constraintEnd_toStartOf="@+id/signOutButton"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2"
-        app:srcCompat="@drawable/company_logo_white" />
+        app:srcCompat="@drawable/car_logo" />
 
     <TextView
         android:id="@+id/introsmartpark"

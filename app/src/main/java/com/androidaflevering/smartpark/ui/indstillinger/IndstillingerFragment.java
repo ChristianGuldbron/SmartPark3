@@ -39,17 +39,14 @@ public class IndstillingerFragment extends Fragment implements View.OnClickListe
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-
         if (veryFirstCreation) {
             veryFirstCreation = false;
             Locale locale;
             locale = new Locale("en", "EN");
-
             Configuration config = new Configuration(requireActivity().getBaseContext().getResources().getConfiguration());
             Locale.setDefault(locale);
             config.setLocale(locale);
             requireActivity().recreate();
-
             requireActivity().getBaseContext().getResources().updateConfiguration(config,
                     requireActivity().getBaseContext().getResources().getDisplayMetrics());
         }

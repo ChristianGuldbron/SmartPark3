@@ -8,7 +8,7 @@ public class Database {
     private static Database database;
 
     private Database() {
-        SamarbejdspartnereAListe.add(new SamarbejdspartnereInfo("Saling Parkeringshus","Østergade 25, 8000 Aarhus C", "00.00 - 24.00", 24.00));
+        SamarbejdspartnereAListe.add(new SamarbejdspartnereInfo("Salling Parkeringshus","Østergade 25, 8000 Aarhus C", "00.00 - 24.00", 20.00));
         SamarbejdspartnereAListe.add(new SamarbejdspartnereInfo("Bruuns Galleri Parkeringshus", "M.P. Bruunsgade 25, 8000 Aarhus C", "00.00-24.00", 22));
         SamarbejdspartnereAListe.add(new SamarbejdspartnereInfo("Navitas Parkeringshus", "Inge Lehmanns Gade 10, 8000 Aarhus C", "00.00-24.00", 17));
         SamarbejdspartnereAListe.add(new SamarbejdspartnereInfo("DGI Huset", "Værkmestergade 17, 8000 Aarhus C", "00.00-24.00", 20));
